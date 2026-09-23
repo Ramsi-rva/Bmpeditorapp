@@ -1,0 +1,7 @@
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/bmpeditor_lib.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/bmpedit.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/bmpeditor_tests.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/RUN_TESTS.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/INSTALL.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/ALL_BUILD.dir
+C:/Documents/Programacion del Sistema/BmpEditor/build/CMakeFiles/ZERO_CHECK.dir

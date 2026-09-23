@@ -1,0 +1,89 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8f2dd309128d715f3dbb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BmpEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bmpedit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bmpedit-Debug-4801310d263f4d836984.json",
+					"name" : "bmpedit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bmpedit_gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bmpedit_gui-Debug-51b8bfc92a195b802612.json",
+					"name" : "bmpedit_gui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bmpeditor_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bmpeditor_lib-Debug-593ef5a152432eae4621.json",
+					"name" : "bmpeditor_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bmpeditor_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bmpeditor_tests-Debug-ff81fb6608ebb38f98f1.json",
+					"name" : "bmpeditor_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug",
+		"source" : "C:/Documents/Programacion del Sistema/BmpEditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

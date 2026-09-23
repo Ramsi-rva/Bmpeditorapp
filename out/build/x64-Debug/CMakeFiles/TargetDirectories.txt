@@ -1,0 +1,10 @@
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/bmpeditor_lib.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/bmpedit.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/bmpeditor_tests.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/bmpedit_gui.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Documents/Programacion del Sistema/BmpEditor/out/build/x64-Debug/CMakeFiles/install/local.dir

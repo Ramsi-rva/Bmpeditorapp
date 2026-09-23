@@ -1,0 +1,10 @@
+^C:\DOCUMENTS\PROGRAMACION DEL SISTEMA\BMPEDITOR\BUILD\CMAKEFILES\DB59B64AA2AAA8E18405D63C133989EB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Documents/Programacion del Sistema/BmpEditor" "-BC:/Documents/Programacion del Sistema/BmpEditor/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Documents/Programacion del Sistema/BmpEditor/build/BmpEditor.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

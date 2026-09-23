@@ -1,0 +1,9 @@
+# ninja log v7
+17	398	8118265983431229	CMakeFiles/bmpeditor_tests.dir/tests/test_bmp_image.cpp.obj	7a5e201ebb9b0372
+10	414	8118265983431229	CMakeFiles/bmpedit.dir/src/main.cpp.obj	1bd72d5182ffd0be
+20	442	8118265983506836	CMakeFiles/bmpedit_gui.dir/src/gui_main.cpp.obj	5a4115191b8e3230
+6	448	8118265983392850	CMakeFiles/bmpeditor_lib.dir/src/bmp_image.cpp.obj	989b415e42552705
+449	488	8118265987777066	bmpeditor_lib.lib	a3fef2e129cd9e2a
+493	759	8118265988245818	bmpeditor_tests.exe	38c5d7b787849527
+488	760	8118265988210442	bmpedit.exe	cf74bd9a3b26c4f6
+497	762	8118265988298378	bmpedit_gui.exe	1a095febabc4a4db
